@@ -1,6 +1,6 @@
 # Comikaut
 
-**Comics, from script to page.** Write comic scripts panel by panel, lay out the pages, then draw them with pressure brushes, your Procreate brushes included. Export PDFs ready for print, with bleed and trim marks.
+**Comics, from script to page.** Made for comic writers, and especially powerful if you make comics on your own. Write the script, import your drawings and build the pages: panels, page layouts, balloons and many other professional tools, then export. Or use it as a lab to preview layouts.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
