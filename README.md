@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="Comikaut: Comics, from script to page." width="100%">
+</p>
+
 # Comikaut
 
-**Comics, from script to page.** Made for comic writers, and especially powerful if you make comics on your own. Write the script, import your drawings and build the pages: panels, page layouts, balloons and many other professional tools, then export. Or use it as a lab to preview layouts.
+**Comics, from script to page.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Made for comic writers, and especially powerful if you make comics on your own. Write the script, import your drawings and build the pages: panels, page layouts, balloons and many other professional tools, then export. Or use it as a lab to preview layouts.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
